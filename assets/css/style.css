@@ -1,0 +1,11 @@
+.debug{
+  background-color: bisque;
+  border: 1px solid black;
+}
+
+.container-menu-fisso{
+  width: 100%;
+  height: 150px;
+  background-color: #2C3E50;
+  padding: 0;
+}
