@@ -1,6 +1,9 @@
 /* global */
 .sc-bg-green{
-  background-color: green;
+  background-color: #1ABC9C;
+  color: white;
+  border:1px solid white;
+  margin-top: 10px;
 }
 
 .sc-padding-80 {
@@ -84,9 +87,36 @@
   color: black;
 }
 
-.sc-footer-top{
-  background-color: lightseagreen;
+#about {
+  background-color: #1ABC9C;
 }
+
+#about h2,p{
+  color: white;
+}
+
+#contact a{
+  text-decoration: none;
+}
+
+
+  /* footer  */
+.sc-footer-top{
+  background-color: #3A546D;
+  color: white;
+}
+
+.sc-footer-top ul li{
+  display: inline;
+  list-style: none;
+}
+
+.white{
+  color:white;
+}
+
+
 .sc-footer-bottom{
-  background-color:mediumslateblue;
+  background-color:#2C3E50;
+  color: white;
 }
